@@ -23,3 +23,6 @@ This repository contains the ClothesFoldingMachine project, an innovative automa
 - Streamlining hardware integration to improve accessibility for home users.
 
 
+https://github.com/user-attachments/assets/a4b22526-1d75-46ac-86a8-0fef30ba3666
+
+
